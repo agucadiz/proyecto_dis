@@ -1,0 +1,80 @@
+body{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+header{
+    min-height: 150px;
+    width: 100%;
+    margin: 0px;
+    border: 1px solid black;
+    text-align: center;
+    line-height: 100px;
+    font-size: x-large;
+}
+
+nav{
+    min-height: 80px;
+    margin: 0px;
+    border: 1px solid black;
+    font-size:xx-large;
+}
+
+section{
+    min-height: 600px;
+    border: 1px solid black;
+    font-size:x-large;
+}
+
+footer{
+    min-height: 50px;
+    border: 1px solid black;
+    font-size:medium;
+    text-align:center;
+}
+
+ul{
+    text-align: center;
+    list-style: none;
+    padding: 0%;
+    margin: 0%;
+}
+
+li{
+    display: inline-block;
+
+}
+
+a{
+    text-decoration: none;
+    width: 200px;
+    display: block;
+    padding: 15px;
+    font-size: 25px;
+}
+
+#container{
+    width: 90%;
+    margin: 0px auto;
+    border: 1px solid black;
+}
+
+#gastrobar{
+    width: 100%;
+}
+
+#chef{
+    display: block;
+    margin: 0 auto;
+}
+
+#comida{
+    width: 32%;
+    height: 300px;
+}
+
+#galeria{
+    width: 100%;
+    height: 800px;
+}
+
+
